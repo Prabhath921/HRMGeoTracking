@@ -1,0 +1,9 @@
+https://github.com/onemolegames/react-native-toast-native 
+https://github.com/crazycodeboy/react-native-easy-toast // ref for toast
+https://github.com/marudy/react-native-responsive-screen // ref for responsive design
+
+
+//to do
+update react to 2019/march build
+change project name and images
+update routes,
